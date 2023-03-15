@@ -1,0 +1,6 @@
+[submodule "companyapi"]
+	path = companyapi
+	url = https://github.com/LearnCodeWithDurgesh/companyapi.git
+[submodule "graphql-project"]
+	path = graphql-project
+	url = https://github.com/LearnCodeWithDurgesh/graphql-project.git
